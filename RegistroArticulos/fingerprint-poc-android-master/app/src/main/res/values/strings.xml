@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FingerPrint-PoC</string>
+    <string name="description">Please place your fingertip on the fingerprint reader to verify your identity.</string>
+    <string name="information">With the fingerprint reader you can build an authentication mechanism in an agile, fast and secure way for your application.</string>
+    <string name="title_activity_main">Main Activity</string>
+    <string name="welcome">Welcome to our application!</string>
+
+</resources>

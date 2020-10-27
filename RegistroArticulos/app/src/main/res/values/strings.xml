@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Registro de Articulos</string>
+    <string name="description">Coloque su dedo lector de huellas digitales para verificar su identidad.</string>
+    <string name="title_activity_main">Main Activity</string>
+    <string name="welcome">Welcome to our application!</string>
+
+
+
+    //Menu Principal agregar
+    <string name="ingreseCodigo">Ingrese Codigo</string>
+    <string name="ingreseNombre">Ingrese Nombre</string>
+    <string name="ingreseDescripcion">Ingrese Descripcion</string>
+    <string name="IngresePrecio">Ingrese Precio</string>
+    <string name="BotonGuardar">GUARDAR</string>
+
+    //editar
+    <string name="DatosEditar">Ingrese los datos a Actualizar</string>
+    <string name="ingreseCodigoEditar">Ingrese su codigo</string>
+    <string name="ingreseNombreEditar">Ingrese Nombre</string>
+    <string name="IngresedescripcionEditar">Ingrese Descripcion</string>
+    <string name="IngresePrecioEditar">Ingrese Precio</string>
+    <string name="BotonActualizar">ACTUALIZAR</string>
+    <string name="BotonAtras">ATRAS</string>
+
+    //Buscar
+    <string name="BtBuscar">BUSCAR</string>
+    <string name="btAtras">ATRAS</string>
+
+    //Eliminar
+    <string name="EliminarEliminar">Ingrese su codigo</string>
+    <string name="BotonEliminar">Eliminar</string>
+    
+    //MostrarTodos
+    <string name="Seleccione">Seleccione...</string>
+    <string name="Codigo">Codigo Articulo</string>
+    <string name="Nombre">Nombre Articulo</string>
+    <string name="Descripcion">Descripcion Articulo</string>
+    <string name="Precio">Precio Articulo</string>
+</resources>
+
